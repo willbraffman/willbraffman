@@ -1,4 +1,6 @@
-Origin: willbraffman's repoLabel: willbraffman's repoSuite: stable
+Origin: willbraffman's repo
+Label: willbraffman's repo
+Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
