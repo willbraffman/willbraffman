@@ -1,0 +1,23 @@
+<package>
+	<id>com.hackyouriphone.gba4ios</id>
+	<name>GBA4iOS</name>
+	<version>2.0.7</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>GBA4iOS v2.0.7</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
