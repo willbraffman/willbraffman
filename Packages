@@ -12,7 +12,7 @@ Filename: ./debs/com.hackyouriphone.gba4ios_2.0.7_iphoneos-arm.deb
 Size: 3866310
 MD5sum: d98017fb18ccf3d8a0c7fd5047e34421
 
-Package: com.duraidabdul.neptune
+Package: com.duraidabdul.neptuneforiphone
 Name: Neptune for iPhone
 Version: 1.1
 Architecture: iphoneos-arm
