@@ -11,3 +11,17 @@ Maintainer: iLeoLion <repo@hackyouriphone.org>
 Filename: ./debs/com.hackyouriphone.gba4ios_2.0.7_iphoneos-arm.deb
 Size: 3866310
 MD5sum: d98017fb18ccf3d8a0c7fd5047e34421
+
+Package: com.duraidabdul.neptune
+Name: Neptune for iPhone
+Version: 1.1
+Architecture: iphoneos-arm
+Author: Duraid Abdul
+Depiction: https://repo.packix.com/package/com.duraidabdul.neptune/
+Section: Tweaks
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Homepage: https://cydia.saurik.com/api/share#?source=https://repo.packix.com/
+Maintainer: Duraid Abdul <wbraffman@gmai;.com>
+Filename: ./debs/com.willbraffman.neptune_iphoneos-arm.deb
+Size: 154
+MD5sum: 683d113e91c087b315941b10987f6e5b
