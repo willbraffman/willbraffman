@@ -26,7 +26,7 @@ Filename: ./debs/com.willbraffman.neptune_iphoneos-arm.deb
 Size: 154
 MD5sum: 683d113e91c087b315941b10987f6e5b
 
-Package: com.xandesign.felicity
+Package: com.xandesign.felicityios
 Name: Felicity For iOS
 Version: 3.3
 Author: XerusDesign
