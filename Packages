@@ -27,7 +27,7 @@ Size: 154
 MD5sum: 683d113e91c087b315941b10987f6e5b
 
 Package: com.xandesign.felicity
-Name: Felicity
+Name: Felicity For iOS
 Version: 3.3
 Author: XerusDesign
 Depiction: https://willbraffman/depictions/Felicity
@@ -35,6 +35,6 @@ Section: Tweaks
 Description: An Intense and Happy theme.
 Homepage: http://apt.thebigboss.org/repofiles/cydia/
 Maintainer: XerusDesign <unixdesignios@gmail.com>
-Filename: ./debs/felicitytheme_3.3
+Filename: ./debs/felicity_3.3
 Size: 18459056
 MD5sum: 87f5511e7bbcfca4e0d77e640b8c104f
