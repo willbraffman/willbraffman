@@ -8,7 +8,7 @@ Section: Games
 Description: GBA4iOS v2.1
 Homepage: willbraffman.github.io/willbraffman/
 Maintainer: iLeoLion <repo@hackyouriphone.org>
-Filename: ./debs/com.dta.gba4ios
+Filename: ./debs/com.dta.gba4ios.deb
 Size: 3866310
 MD5sum: a6a3bb0d980f3c8b48256b30d5d79a99
 
@@ -22,7 +22,7 @@ Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Homepage: https://willbraffman.github.io/willbraffman/
 Maintainer: Duraid Abdul <wbraffman@gmail.com>
-Filename: ./debs/com.duraidabdul.neptune
+Filename: ./debs/com.duraidabdul.neptune.deb
 Size: 29418
 MD5sum: a06518c81088ffa1a717086edf6ea397
 
@@ -35,6 +35,6 @@ Section: Themes
 Description: An Intense and Happy theme.
 Homepage: http://willbraffman.github.io/willbraffman/
 Maintainer: XerusDesign <unixdesignios@gmail.com>
-Filename: ./debs/com.braffman.felicity
+Filename: ./debs/com.braffman.felicity.deb
 Size: 21442686
 MD5sum: 37ca5aa35dba9aaf1c411c99cbb7e2f0
