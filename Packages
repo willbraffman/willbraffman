@@ -1,4 +1,4 @@
-Package: com.dta.gba4ios_2.1_iphoneos-arm
+Package: com.dta.gba4ios
 Name: GBA4iOS
 Version: 2.1
 Architecture: iphoneos-arm
@@ -8,11 +8,11 @@ Section: Games
 Description: GBA4iOS v2.1
 Homepage: willbraffman.github.io/willbraffman/
 Maintainer: iLeoLion <repo@hackyouriphone.org>
-Filename: ./debs/com.dta.gba4ios_2.1_iphoneos-arm
+Filename: ./debs/com.dta.gba4ios
 Size: 3866310
 MD5sum: a6a3bb0d980f3c8b48256b30d5d79a99
 
-Package: com.duraidabdul.neptune_1.0.0-15_iphoneos-arm
+Package: com.duraidabdul.neptune
 Name: Neptune
 Version: 1.0.0-15
 Architecture: iphoneos-arm
@@ -22,11 +22,11 @@ Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Homepage: https://willbraffman.github.io/willbraffman/
 Maintainer: Duraid Abdul <wbraffman@gmail.com>
-Filename: ./debs/com.duraidabdul.neptune_1.0.0-15_iphoneos-arm
+Filename: ./debs/com.duraidabdul.neptune
 Size: 29418
 MD5sum: a06518c81088ffa1a717086edf6ea397
 
-Package: com.braffman.felicity_3.3_iphoneos-arm
+Package: com.braffman.felicity
 Name: Felicity
 Version: 3.3
 Author: XerusDesign
@@ -35,6 +35,6 @@ Section: Themes
 Description: An Intense and Happy theme.
 Homepage: http://willbraffman.github.io/willbraffman/
 Maintainer: XerusDesign <unixdesignios@gmail.com>
-Filename: ./debs/com.braffman.felicity_3.3_iphoneos-arm
+Filename: ./debs/com.braffman.felicity
 Size: 21442686
 MD5sum: 37ca5aa35dba9aaf1c411c99cbb7e2f0
