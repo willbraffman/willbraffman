@@ -4,7 +4,7 @@ Version: 2.0.7
 Architecture: iphoneos-arm
 Author: wbraffman <wbraffman@gmail.com>
 Depiction: http://willbraffman.github.io/willbraffman/depictions/GBA4iOS
-Section: Tweaks
+Section: Games
 Description: GBA4iOS v2.0.7
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=gba4ios
 Maintainer: iLeoLion <repo@hackyouriphone.org>
@@ -31,7 +31,7 @@ Name: Felicity For iOS
 Version: 3.3
 Author: XerusDesign
 Depiction: https://willbraffman/depictions/Felicity
-Section: Tweaks
+Section: Themes
 Description: An Intense and Happy theme.
 Homepage: http://apt.thebigboss.org/repofiles/cydia/
 Maintainer: XerusDesign <unixdesignios@gmail.com>
